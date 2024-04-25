@@ -1,6 +1,6 @@
-import '@/app/ui/global.css'
+import '@/app/ui/global.css';
 import { nunito } from '@/app/ui/fonts';
-import React from "react";
+import React from 'react';
 
 export default function RootLayout({
   children,
